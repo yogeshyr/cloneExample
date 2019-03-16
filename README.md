@@ -4,3 +4,6 @@ we are creating the local repository using clone method
 
 
 directly from master
+
+
+git pull
